@@ -1,0 +1,101 @@
+{
+
+		"_id": "ARTEM_GHOSTMASK",
+		"_name": "ghostmask",
+    "_parent": "5a341c4086f77401f2541505",
+		"_type": "Item",
+		"_props": {
+			"Name": "",
+			"ShortName": "",
+			"Description": "",
+			"Weight": 2.1,
+			"BackgroundColor": "black",
+			"Width": 2,
+			"Height": 2,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_helmet",
+			"Prefab": {
+				"path": "ghostmask.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+				
+			},
+			 "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": true,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 20,
+      "ExamineExperience": 4,
+      "HideEntrails": false,
+      "RepairCost": 130,
+      "RepairSpeed": 10,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": false,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": true,
+      "ConflictingItems": ["60a7ad3a0c5cb24b0134664a",
+	  "60a7ad2a2198820d95707a2e"],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "Grids": [],
+      "Slots": [],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "BlocksEarpiece": false,
+      "BlocksEyewear": false,
+      "BlocksHeadwear": false,
+      "BlocksFaceCover": false,
+      "Durability": 18,
+      "MaxDurability": 18,
+      "armorClass": "3",
+      "speedPenaltyPercent": -1.25,
+      "mousePenalty": 0,
+      "weaponErgonomicPenalty": -1.25,
+      "armorZone": [
+        "Head"
+      ],
+      "Indestructibility": 0.9,
+      "headSegments": [
+        "Top",
+        "Nape",
+        "Ears"
+      ],
+      "FaceShieldComponent": false,
+      "FaceShieldMask": "NoMask",
+      "HasHinge": false,
+      "MaterialType": "Helmet",
+      "RicochetParams": {
+        "x": 0.9,
+        "y": 0.4,
+        "z": 75
+      },
+      "DeafStrength": "Low",
+      "BluntThroughput": 0.09,
+      "ArmorMaterial": "ArmoredSteel",
+      "BlindnessProtection": 0,
+      "ArmorType": "Heavy"
+    },
+    "_proto": "5645bc214bdc2d363b8b4571"
+  }
+
+

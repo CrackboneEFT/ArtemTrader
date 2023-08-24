@@ -1,0 +1,120 @@
+{
+    "_id": "ArtemTrader",
+    "customization_seller": false,
+    "working": true,
+    "availableInRaid": false,
+    "items_buy": {"category": [
+        "55818a304bdc2db5418b457d",
+        "55818a684bdc2ddd698b456d",
+        "56ea9461d2720b67698b456f",
+        "55818a104bdc2db9688b4569",
+        "555ef6e44bdc2de9068b457e",
+        "55818a594bdc2db9688b456a",
+        "55818b224bdc2dde698b456f",
+        "5448bc234bdc2d3c308b4569",
+        "55818b014bdc2ddc698b456b",
+        "55818a6f4bdc2db9688b456b",
+        "5a74651486f7744e73386dd1",
+        "5448fe7a4bdc2d6f028b456b",
+        "55818b0e4bdc2dde698b456e",
+        "5448fe394bdc2d0d028b456c",
+        "55818af64bdc2d5b648b4570",
+        "55818afb4bdc2dde698b456d",
+        "543be6564bdc2df4348b4568",
+        "5447e1d04bdc2dff2f8b4567",
+        "5447bed64bdc2d97278b4568",
+        "5447b6254bdc2dc3278b4568",
+        "5447b5e04bdc2d62278b4567",
+        "5447b6094bdc2dc3278b4567",
+        "5447b5cf4bdc2d65278b4567",
+        "5447b6194bdc2d67278b4567",
+        "5447b5f14bdc2d61278b4567",
+        "5447b5fc4bdc2d87278b4567",
+        "543be5cb4bdc2deb348b4568",
+        "5485a8684bdc2da71d8b4567",
+        "5448f3a64bdc2d60728b456a",
+        "5448f3ac4bdc2dce718b4569",
+        "5448f39d4bdc2d0a728b4568",
+        "5448f3a14bdc2d27728b4569",
+        "55818b084bdc2d5b648b4571",
+        "5b5f736886f774094242f193",
+        "55818b0e4bdc2dde698b456e",
+        "55818b164bdc2ddc698b456c",
+        "5448ecbe4bdc2d60728b4568",
+        "5447e0e74bdc2d3c308b4567",
+        "567849dd4bdc2d150f8b456e",
+        "543be5dd4bdc2deb348b4569" 
+
+    ], "id_list": [
+
+    ]},
+    "items_buy_prohibited": {},
+    "name": "Artem",
+    "surname": "",
+    "nickname": "Artem",
+    "location": "[REDACTED]",
+    "description": "[REDACTED]",
+    "avatar": "/files/trader/avatar/artem.jpg",
+    "balance_rub": 80000000,
+    "balance_dol": 0,
+    "balance_eur": 0,
+    "unlockedByDefault": true,
+    "discount": 0,
+    "discount_end": 0,
+    "buyer_up": false,
+    "currency": "RUB",
+    "nextResupply": 1631489044,
+    "repair": {
+        "availability": false
+    },
+    "insurance": {
+        "availability": false
+    },
+    "medic": false,
+    "gridHeight": 160,
+    "loyaltyLevels": [
+        {
+            "minLevel": 1,
+            "minSalesSum": 0,
+            "minStanding": 0,
+            "buy_price_coef": 44,
+            "repair_price_coef": 175,
+            "insurance_price_coef": 10,
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0
+        },
+        {
+            "minLevel": 20,
+            "minSalesSum": 600000,
+            "minStanding": 0.2,
+            "buy_price_coef": 44,
+            "repair_price_coef": "180",
+            "insurance_price_coef": "12",
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0
+        },
+        {
+            "minLevel": 30,
+            "minSalesSum": 2000000,
+            "minStanding": 0.45,
+            "buy_price_coef": 44,
+            "repair_price_coef": "185",
+            "insurance_price_coef": "14",
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0
+        },
+        {
+            "minLevel": 35,
+            "minSalesSum": 3500000,
+            "minStanding": 0.50,
+            "buy_price_coef": 44,
+            "repair_price_coef": "195",
+            "insurance_price_coef": "16",
+            "exchange_price_coef": 0,
+            "heal_price_coef": 0
+        }
+    ],
+    "sell_category": [
+
+    ]
+}

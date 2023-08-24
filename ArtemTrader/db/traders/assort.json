@@ -1,0 +1,30 @@
+{
+	 "ArtemTrader": {
+		"items": [
+			
+			{
+				"_id": "ARTEM_GHOSTMASK",
+				"_tpl": "ARTEM_GHOSTMASK",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": false,
+					"StackObjectsCount": 999
+				}
+			}
+		],
+		"barter_scheme": {
+			"ARTEM_GHOSTMASK": [
+				[
+					{
+						"count": 1000,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			]
+		},
+		"loyal_level_items": {
+			"ARTEM_GHOSTMASK": 1
+		}
+	}
+}

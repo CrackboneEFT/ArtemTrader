@@ -1,0 +1,9 @@
+{
+	"templates": {
+		"ARTEM_GHOSTMASK": {
+			"Name": "GHOST",
+			"ShortName": "test",
+			"Description": "test"
+		}
+	}
+}
